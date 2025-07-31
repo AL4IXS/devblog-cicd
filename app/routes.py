@@ -287,3 +287,4 @@ def api_health():
         'timestamp': datetime.now().isoformat(), 
         'tests_passing': True 
     })
+
